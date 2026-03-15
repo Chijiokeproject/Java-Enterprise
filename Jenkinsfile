@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        TOMCAT_PUBLIC_IP = '15.237.181.99'
+        TOMCAT_PUBLIC_IP = '18.203.247.211'
     }
     
     stages{
